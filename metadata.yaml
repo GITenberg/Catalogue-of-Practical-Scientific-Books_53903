@@ -1,6 +1,9 @@
 _repo: Catalogue-of-Practical-Scientific-Books_53903
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Catalogue of Practical and Scientific Books
+covers:
+- cover_type: archival
+  image_path: 53903-h/images/cover.jpg
 creator:
   author:
     agent_name: Henry Carey Baird & Co.
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '47608'
     url: http://www.gutenberg.org/2009/agents/47608
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53903#Catalogue-of-Practical-Scientific-Books
 gutenberg_issued: '2017-01-06'
 gutenberg_type: Text
 identifiers:
